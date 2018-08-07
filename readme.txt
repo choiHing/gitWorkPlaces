@@ -9,3 +9,4 @@ Git tracks changes of files.
 This is my frist project!
 Creating a new branch is quick.
 Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
